@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AURA---weather_dashboard/static/css/main.628308e7.css",
-    "main.js": "/AURA---weather_dashboard/static/js/main.82a8e966.js",
+    "main.js": "/AURA---weather_dashboard/static/js/main.32fad589.js",
     "static/js/453.dace7088.chunk.js": "/AURA---weather_dashboard/static/js/453.dace7088.chunk.js",
     "index.html": "/AURA---weather_dashboard/index.html",
     "main.628308e7.css.map": "/AURA---weather_dashboard/static/css/main.628308e7.css.map",
-    "main.82a8e966.js.map": "/AURA---weather_dashboard/static/js/main.82a8e966.js.map",
+    "main.32fad589.js.map": "/AURA---weather_dashboard/static/js/main.32fad589.js.map",
     "453.dace7088.chunk.js.map": "/AURA---weather_dashboard/static/js/453.dace7088.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.628308e7.css",
-    "static/js/main.82a8e966.js"
+    "static/js/main.32fad589.js"
   ]
 }
